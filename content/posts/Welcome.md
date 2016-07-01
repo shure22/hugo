@@ -1,7 +1,13 @@
 +++
 date = "2016-06-30T23:10:31+08:00"
 draft = false
+comments = true
 title = "Welcome"
 
+
 +++
-This is a TEST!!!
+依着葫芦画瓢，也顺带着学了一些Git。更丰富的东西慢慢加吧，CSS和HTML也不懂。
+
+好歹还去GoDaddy买了个域名，虽然不算贵，也算是有个窝了。
+
+从头开始。
