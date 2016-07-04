@@ -7,12 +7,13 @@ title = "申请总结"
 
 ## Overview
 ***
-- **GPA** 3.8/4.0　 89.5/100  
-- **Rank** 1/129
-- **TOEFL** 109 　**GRE** 323(156+167) AW3.5
-- **Other Background** 国奖和一等奖学金，一个发明专利，非知名211
-- **Applied** CMU(ECE,INI); Stanford(EE); UCLA(EE: Signals and Embedded Systems); UCSD(CE); USC(CS:转专业项目，共37学分); Cornell(ECE); Columbia(CS); NYU Tandon(CS); UPittsburgh(CS); OSU(ECE); UCI(CE); NWU(CS)
-- **Ad** USC;Cornell; NYU Tandon with 7k/year scholarship; OSU 
+
+- **GPA**：3.8/4.0　 89.5/100  
+- **Rank**：1/129
+- **TOEFL**：109 　**GRE**：323(156+167) AW3.5
+- **Other Background**：国奖和一等奖学金，一个发明专利，非知名211
+- **Applied**：CMU(ECE,INI); Stanford(EE); UCLA(EE: Signals and Embedded Systems); UCSD(CE); USC(CS:转专业项目，共37学分); Cornell(ECE); Columbia(CS); NYU Tandon(CS); UPittsburgh(CS); OSU(ECE); UCI(CE); NWU(CS)
+- **Ad**：USC; Cornell; NYU Tandon with 7k/year scholarship; OSU 
 
 ## GPA
 ***
@@ -40,7 +41,10 @@ title = "申请总结"
 ## 关于文书
 ***
 
-有一种论调，我前两天才在某群里见过：*文书不重要，没人会看，没什么用！*这种话绝对是误导性的那种，何况还是从一个申请完的人嘴里说出来的。
+有一种论调，我前两天才在某群里见过：
+>*文书不重要，没人会看，没什么用！*
+
+这种话绝对是误导性的那种，何况还是从一个申请完的人嘴里说出来的。
 
 文书和其他方面同等重要，PS 需要好好雕琢，尽量做到内容上不缺不漏，即使不能够做到相对 native 的书写，或者不能找人润色，也要做到语法正确，但切忌**做作**，即为了润色而润色的文章，我相信大家都能一眼看出来，这是没有意义的。
 
