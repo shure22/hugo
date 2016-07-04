@@ -1,3 +1,4 @@
 baseurl = "http://wsteg.info/"
 languageCode = "en-us"
 title = "wsteg"
+googleAnalytics = "UA-80248118-1"
