@@ -1,0 +1,21 @@
+<!--<h6 class="categorieslisttitle">Categories</h6>
+<ul class="categorieslist">
+    {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+        {{ if ge .Count 1 }}
+            <li><a href="/categories/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a></li>
+        {{ end }}
+    {{ end }}
+</ul>-->
+
+{{ if isset .Site.Taxonomies "categories" }}
+{{ if not (eq (len .Site.Taxonomies.categories) 0) }}
+<h6 class="categorieslist">Categories:</h6>
+  <p class="asidetitle">{{ .Site.Params.Strings.Categories }}</p>
+  
+    {{ range $name, $items := .Site.Taxonomies.categories }}
+    <a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}" title="{{ $name }}">{{ $name }}({{ .Count }})</a>
+    {{ end }}
+  
+</div>
+{{ end }}
+{{ end }}
