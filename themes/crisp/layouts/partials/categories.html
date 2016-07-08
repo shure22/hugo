@@ -10,10 +10,10 @@
 {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
 <h6 class="categorieslist">Categories:</h6>
-  <p class="asidetitle">{{ .Site.Params.Strings.Categories }}</p>
+  <p class="asidetitle">{{ .Site.Params.Strings.Categories }}
   
     {{ range $name, $items := .Site.Taxonomies.categories }}
-    <a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}" title="{{ $name }}">{{ $name }}({{ .Count }})</a>
+    <h5 href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}" title="{{ $name }}">{{ $name }}({{ .Count }})</h5>
     {{ end }}
   
 </div>
